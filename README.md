@@ -1,4 +1,5 @@
-### Hey, I'm Mohd Anas 👋
+### Hey, I'm Mohd Anas 👋 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 
 - 🔭 I’m currently working on My Own Projects.
 - 🌱 I’m currently learning about algorithm.
