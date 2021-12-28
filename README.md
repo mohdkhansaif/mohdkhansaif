@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate on ProductHunt.
 - 💬 Ask me about resources where you can solve any type of problem.
 - 📫 How to reach me: 
-- [Twitter - @m0hd197](https://twitter.com/m0hd197)
-- [Instagram - @m0hd197](https://www.instagram.com/m0hd197/)
+- [Twitter - @Msaif_400](https://twitter.com/Msaif_400)
+<!-- - [Instagram - @m0hd197](https://www.instagram.com/m0hd197/) -->
 - [Youtube - @MohdTech](https://www.youtube.com/c/MohdTech)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: Mostly,I like a secluded and quite place.
