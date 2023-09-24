@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lewbie and I'm a Curios Front-back-end developer, from Bharatindia.</h2>
+<h2 align="center">Greetings! 🌟 Allow me to introduce myself in a more elaborate fashion. I am Lewbie, a profoundly inquisitive individual who thrives in the realm of both front-end and back-end development, hailing from the enchanting land of Bharatindia. 🌍💼✨</h2>
 
 ###
 
