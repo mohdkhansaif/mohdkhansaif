@@ -1,19 +1,23 @@
-![](https://komarev.com/ghpvc/?username=Lyfperegrine&color=green)
-### Hey, Welcome to the Lyfperegrine's Repository 👋 
+<h2 align="left">Hi 👋! My name is Lewbie and I'm a Curios Front-back-end developer, from Bharatindia.</h2>
 
+###
 
-- 🔭 I’m currently working on My Own Projects.
-- 🌱 I’m currently learning about algorithm.
-- 👯 I’m looking to collaborate on ProductHunt.
-- 💬 Ask me about resources where you can solve any type of problem.
-- 📫 How to reach me: 
-- [Twitter - @vihansaif](https://twitter.com/lyfperegrine)
-- [Instagram - @Lyfperegrine](https://www.instagram.com/codingclassroom1/)
-- [Youtube - @CodingClassRoom](https://www.youtube.com/c/CodingClassRoom1)
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: Mostly,I like a secluded and quite place.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lewbie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lewbie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyfperegrine&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Lyfperegrine&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+<div align="center">
+  <a href="https://www.youtube.com/@CodingClassRoom1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/ihavlastchance/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 
+  <a href="https://web.facebook.com/ihavlastchance/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
